@@ -17,19 +17,19 @@ import ChartComponents from "./components/ChartComponents.vue";
             <figure>
               <img src="../src/assets/tinggi.png" width="30" alt="" srcset="">
             </figure>
-            <h1 class="font-bold mt-1">Tinggi</h1>
+            <h1 class="font-bold mt-1">Sangat Rawan</h1>
           </div>
           <div class="group flex flex-row gap-2">
             <figure>
               <img src="../src/assets/sedang.png" width="30" alt="" srcset="">
             </figure>
-            <h1 class="font-bold mt-1">Sedang</h1>
+            <h1 class="font-bold mt-1">Rawan</h1>
           </div>
           <div class="group flex flex-row gap-2">
             <figure>
               <img src="../src/assets/rendah.png" width="30" alt="" srcset="">
             </figure>
-            <h1 class="font-bold mt-1">Rendah</h1>
+            <h1 class="font-bold mt-1">Tidak Rawan</h1>
           </div>
          </div>
       </div>
